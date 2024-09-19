@@ -1,8 +1,25 @@
 .title {
-  color: blue;
+  color: rgb(255, 255, 255);
   font-size: 100px;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   font-style: oblique;
   text-align: center;
-  background-color: black;
+
+  background-color: rgb(26, 77, 13);
+}
+
+.bigfatcat {
+  width: 500px;
+  position: center;
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  background-color: rgba(0, 109, 18, 0.301);
+}
+
+.booody {
+  text-align: center;
 }
